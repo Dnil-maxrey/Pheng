@@ -2,7 +2,7 @@
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(200, 200), "PHENG");
+    sf::RenderWindow window(sf::VideoMode(400, 300), "PHENG");
     sf::CircleShape shape(100.f);
     shape.setFillColor(sf::Color::Green);
 
